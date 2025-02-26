@@ -1,2 +1,1 @@
-chnges c.txt feature 2
-new line
+chnges c.txt feature 5
